@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": " 'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "scss.format.enable": true,
+    "editor.defaultFormatter": "vscode.css-language-features",
+  },
+}
